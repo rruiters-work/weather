@@ -1,4 +1,17 @@
 # weather app
+To build a weather app I followed these concise steps
+https://www.digitalocean.com/community/tutorials/how-to-build-a-weather-app-in-django
+
+Before starting git, github, python and django need setup. The following resources reminded what is needed for a lightweight project scaffolded in django
+
+Git and Github
+https://jlord.computer/git-it/
+
+Python
+https://docs.python.org/3/library/venv.html
+
+Django
+https://www.djangoproject.com/
 
 <img width="1196" height="678" alt="1" src="https://github.com/user-attachments/assets/ebebb215-009e-4feb-beef-3d52522525c8" />
 
