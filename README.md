@@ -11,3 +11,8 @@ Cities
 
 Nested - HTML Fix to come
 <img width="1373" height="1027" alt="4" src="https://github.com/user-attachments/assets/8fa66dd6-d7ba-4036-af07-7efff42f6090" />
+
+Next
+Enable Slack Webhooks in Django App
+https://medium.com/@sizanmahmud08/how-to-integrate-slack-with-your-django-project-a-complete-step-by-step-guide-a7b1253cdcc3
+<img width="803" height="629" alt="Screenshot 2026-09-11 at 09 45 21" src="https://github.com/user-attachments/assets/43b07bcc-a869-4bc8-92b9-79feb281a73d" />
