@@ -16,3 +16,9 @@ Next
 Enable Slack Webhooks in Django App
 https://medium.com/@sizanmahmud08/how-to-integrate-slack-with-your-django-project-a-complete-step-by-step-guide-a7b1253cdcc3
 <img width="803" height="629" alt="Screenshot 2026-09-11 at 09 45 21" src="https://github.com/user-attachments/assets/43b07bcc-a869-4bc8-92b9-79feb281a73d" />
+
+
+Use incoming webhooks? Seems to be deprecated? Back to the drawing board
+<img width="924" height="828" alt="Screenshot 2026-09-11 at 09 51 47" src="https://github.com/user-attachments/assets/973da070-86e0-4bc7-9839-43630e1ddcb4" />
+
+<img width="869" height="765" alt="Screenshot 2026-09-11 at 09 53 27" src="https://github.com/user-attachments/assets/0dad93cd-9960-46de-927c-c6e079d74acf" />
